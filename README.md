@@ -22,6 +22,6 @@ npm install
 ## Usage
 To start the application, run:
 ```
-npm run devStart
+npm run dev
 ```
 
